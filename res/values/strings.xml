@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">search</string>
+    <string name="query_api">http://api.flickr.com/services/rest/?&amp;method=flickr.photos.search&amp;api_key=3b67cc77f097ef0d5beddecd7d850a97&amp;format=json&amp;per_page=20&amp;nojsoncallback=1&amp;text=</string>
+    <string name="search_hint">Input to search images</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="image_desc">selected Image</string>
+</resources>
